@@ -1,0 +1,40 @@
+.CONTENR img{
+    width: 350px; 
+    height: 200px;
+   background-size: cover;
+   background-position: center;
+   
+     transform: rotateX(44deg);animation-duration: 2s;
+     transform: rotateY(44deg);
+
+   
+    
+}
+
+.CONTENR img:hover{
+   
+    transform: none;
+    
+    
+   
+    
+}
+.CONTENR{
+   
+    position: relative;
+    top: 15vw;
+    left: 18vw;
+    display: inline-block;
+    position: absolute;
+    transform: rotateY(65DEG);
+   
+
+    
+   
+}
+
+body{
+  
+}
+
+
